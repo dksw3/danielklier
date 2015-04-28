@@ -1,0 +1,25 @@
+= go go go
+
+storm the (web)front, we need more collaboration for world peace. since accumulating knowledge alone in front of my displays and keyboard, i want to join the evolution to a more open way of learning and teaching. let's get the party started. 
+
+in order to get more transparent, to promote some idea for the good of mankind (or at least some subset of good humans and friends), i will try to post here some snapshots of my progress in the struggle to get up-to-date with the current technologic development.
+on the long run, i would like to complete open source my learning resources and progress, so everyone can benefit.  
+
+since this is some kind of introductive post and start of this all, i will update this a few times to get the mission statement right and learn this blogging system properly. 
+
+i want to involve you in my learning process, so you can learn while i am learning - yo dawg!
+so next step will be to checkout the markup-style for this blogging framework called "hubpress".
+here are the links i need to go through to update this article: 
+* https://github.com/HubPress/hubpress.io/wiki/Recommended-Practices
+* http://asciidoctor.org/docs/asciidoc-writers-guide/
+
+i would love to make this blog more reactive and the text more "plastic"/haptic for the reader, so you can also work with this.
+In addition, it would be nice to leverage the great functionality of git to have some kind of way to watch the progress of this blog (time-machine - fuck yeah!) 
+
+so long, hang loose \m/
+♥ & ☮ 
+daniel
+
+
+
+
