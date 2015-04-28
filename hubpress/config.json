@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "dksw3",
-    "repositoryName": "danielklier",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"dksw3","repositoryName":"danielklier","branch":"gh-pages","cname":"blog.danielklier.com"},"site":{"title":"blog.danielklier.com","description":"official blog from danielklier","url":"http://blog.danielklier.com"},"socialnetwork":{"email":"contact@danielklier.com"},"theme":{"name":"Casper","url":"//dksw3.github.io/danielklier/themes/Casper"}}
